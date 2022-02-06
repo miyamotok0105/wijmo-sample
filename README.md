@@ -1,15 +1,16 @@
 # wijmo-sample
 
 
-# To install the sample
 ```
-npm install
+Macos
+node v16.13.2
+npm 8.1.2
 ```
 
-# To run the sample
+Wijimoは有料コンポーネント。
 
 ```
-npm run serve
+- sample-app：サンプルのアプリ
 ```
 
 ライセンスを取得する必要がある。開発用のライセンスは年間で数十万かかるが、トライアルで30日無料がある。
